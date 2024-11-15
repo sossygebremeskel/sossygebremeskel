@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Sosna Gebremeskel</h1>
-<img align="right" alt="Coding" width="400"src="https://miro.medium.com/v2/resize:fit:1024/0*7XoQDeVizpkcKsz5.jpeg">
+<img align="right" alt="Coding" width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteAn0BzJudTu4VxRXFXSUbsK94eWLBDFm4Q&s">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React**
