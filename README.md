@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at https://dreamy-lamington-9496c8.netlify.
+- 👨‍💻 All of my projects are available at https://my-portfolio-6ywe.vercel.app/
 
 - 💬 Ask me about **HTML,CSS**
 
