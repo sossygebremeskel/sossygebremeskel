@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Sosna Gebremeskel</h1>
 <img align="right" alt="Coding" width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteAn0BzJudTu4VxRXFXSUbsK94eWLBDFm4Q&s">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-![Profile Views](https://komarev.com/ghpvc/?username=sossygebremeskel@gmail.com&color=blue)
+(https://komarev.com/ghpvc/?username=sossygebremeskel@gmail.com&color=blue)
 
 - 🌱 I’m currently learning **React**
 
